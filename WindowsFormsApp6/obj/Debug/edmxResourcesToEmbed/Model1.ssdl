@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="taskModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Degrees">
+    <Key>
+      <PropertyRef Name="Eid" />
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Eid" Type="int" Nullable="false" />
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="ExamName" Type="varchar" MaxLength="50" />
+    <Property Name="Degree" Type="int" />
+  </EntityType>
+  <EntityType Name="register">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="username" Type="varchar(max)" Nullable="false" />
+    <Property Name="password" Type="varchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="school">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar(max)" />
+    <Property Name="country" Type="varchar(max)" />
+    <Property Name="email" Type="varchar(max)" />
+    <Property Name="password" Type="varchar(max)" />
+  </EntityType>
+  <Association Name="FK_Degrees_school">
+    <End Role="school" Type="Self.school" Multiplicity="1" />
+    <End Role="Degrees" Type="Self.Degrees" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="school">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Degrees">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="taskModelStoreContainer">
+    <EntitySet Name="Degrees" EntityType="Self.Degrees" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="register" EntityType="Self.register" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="school" EntityType="Self.school" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Degrees_school" Association="Self.FK_Degrees_school">
+      <End Role="school" EntitySet="school" />
+      <End Role="Degrees" EntitySet="Degrees" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

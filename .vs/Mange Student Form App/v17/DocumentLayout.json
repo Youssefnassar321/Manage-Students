@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|c:\\users\\mti\\source\\repos\\windowsformsapp6\\windowsformsapp6\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|solutionrelative:windowsformsapp6\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\windowsformsapp6\\passwordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|solutionrelative:windowsformsapp6\\passwordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\windowsformsapp6\\passwordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|solutionrelative:windowsformsapp6\\passwordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\windowsformsapp6\\login-tecform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|solutionrelative:windowsformsapp6\\login-tecform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\windowsformsapp6\\login-tecform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|solutionrelative:windowsformsapp6\\login-tecform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\windowsformsapp6\\login-stform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|solutionrelative:windowsformsapp6\\login-stform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\windowsformsapp6\\login-stform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|solutionrelative:windowsformsapp6\\login-stform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\windowsformsapp6\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|solutionrelative:windowsformsapp6\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\windowsformsapp6\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|solutionrelative:windowsformsapp6\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\windowsformsapp6\\updateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|solutionrelative:windowsformsapp6\\updateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\windowsformsapp6\\updateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|solutionrelative:windowsformsapp6\\updateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\windowsformsapp6\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|solutionrelative:windowsformsapp6\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\windowsformsapp6\\degreesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|solutionrelative:windowsformsapp6\\degreesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\windowsformsapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|solutionrelative:windowsformsapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\windowsformsapp6\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|solutionrelative:windowsformsapp6\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\windowsformsapp6\\degreesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E8E0CA-4D96-4550-830A-A5FA0967EB2F}|WindowsFormsApp6\\Manage Students Form.csproj|solutionrelative:windowsformsapp6\\degreesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\HomeForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\HomeForm.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\HomeForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp6\\HomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:43:56.43Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordForm.cs",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\PasswordForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\PasswordForm.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\PasswordForm.cs",
+              "RelativeToolTip": "WindowsFormsApp6\\PasswordForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:43:38.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PasswordForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\PasswordForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\PasswordForm.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\PasswordForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp6\\PasswordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:43:35.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login-TecForm.cs",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\Login-TecForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\Login-TecForm.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\Login-TecForm.cs",
+              "RelativeToolTip": "WindowsFormsApp6\\Login-TecForm.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAhwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:32:55.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login-TecForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\Login-TecForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\Login-TecForm.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\Login-TecForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp6\\Login-TecForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:32:54.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login-stForm.cs",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\Login-stForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\Login-stForm.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\Login-stForm.cs",
+              "RelativeToolTip": "WindowsFormsApp6\\Login-stForm.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAhwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:07:26.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login-stForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\Login-stForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\Login-stForm.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\Login-stForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp6\\Login-stForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:07:25.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateForm.cs",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\UpdateForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\UpdateForm.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\UpdateForm.cs",
+              "RelativeToolTip": "WindowsFormsApp6\\UpdateForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:00:15.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\UpdateForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\UpdateForm.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\UpdateForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp6\\UpdateForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:00:13.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\Program.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:48:29.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DegreesForm.cs",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\DegreesForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\DegreesForm.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\DegreesForm.cs",
+              "RelativeToolTip": "WindowsFormsApp6\\DegreesForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAD4vx8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:06:12.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DegreesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\DegreesForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\DegreesForm.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\DegreesForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp6\\DegreesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:04:52.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Registerform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\Registerform.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\Registerform.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\Registerform.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp6\\Registerform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:04:11.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\StudentsForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\StudentsForm.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\StudentsForm.cs",
+              "RelativeToolTip": "WindowsFormsApp6\\StudentsForm.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwK0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T06:51:46.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\StudentsForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\StudentsForm.cs",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\StudentsForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp6\\StudentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T06:49:23.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\Model1.edmx",
+              "RelativeDocumentMoniker": "WindowsFormsApp6\\Model1.edmx",
+              "ToolTip": "C:\\Users\\MTI\\source\\repos\\WindowsFormsApp6\\WindowsFormsApp6\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "WindowsFormsApp6\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-03T06:44:51.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
