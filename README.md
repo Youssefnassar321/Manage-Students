@@ -52,5 +52,5 @@ This is a **Windows Forms Application** developed in **C#** using **Entity Frame
 2. Open the solution in Visual Studio.
 3. Set up your SQL Server database and configure the connection string in the `appsettings.json` or the configuration file.
 4. Run the Entity Framework Core migrations to set up the database schema.
-   ```bash
+   ```bash 
    Update-Database
